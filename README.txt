@@ -1,6 +1,4 @@
-Hi there!
-
-When given a csv file of random zip codes and a csv file of zip codes with their populations, this program places the populations in the column next to the random zips
+When given one csv file of random zip codes and one csv file of zip codes with their populations, this program places the populations in the column next to the random zips
 
 You will need 3 csv files for this to work:
 • One that has randomized zip codes in the 1st column called 'givenZips.csv'
